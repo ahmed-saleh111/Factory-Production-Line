@@ -1,5 +1,8 @@
 # Production Line Quality Control System
-https://github.com/ahmed-saleh111/Factory-Production-Line/blob/main/bottles.gif
+
+![Demo](bottles.gif)
+
+
 ## Overview
 
 This system provides automated quality control for production line inspection using computer vision and AI analysis. It detects bottles on a production line, tracks them, and uses Google's Gemini AI to analyze whether labels are present and check for damage.
